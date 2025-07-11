@@ -11,4 +11,5 @@ int main()
     c = a + b;
     d = c * N;
     cout << d << endl;
+    return 0;
 }
